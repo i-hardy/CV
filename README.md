@@ -41,7 +41,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Pass with Merit
 - My dissertation staged a critique of the Mennonite school of Christian Pacifism through an examination of structural systems of violence exemplified by the meat industry.
 
-#### University of Durham (Oct 2006 to Jul 2009)
+#### University of Durham, Grey College (Oct 2006 to Jul 2009)
 
 - BA(Hons) in Theology & Religion
 - 2:1
@@ -57,12 +57,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Exeter Diocesan Board of Finance** (Jun 2015 to Dec 2016)    
 *Executive Officer*  
 **Exeter & Greater Devon Coroner's Office** (Nov 2014 to Jun 2015)   
-*Assistant Clerk to the Coroner*
-**Temp Solutions (Devon County Council)** (Mar 2013 to Nov 2014)
-*Various temporary positions*
-**Kent County Council** (Jun 2010 to Sept 2011)
-*Publicity Officer - Local Bus Team*
-**Maidstone & Weald Samaritans** (Sept 2009 to Jan 2011)
-*Listening Volunteer*
-**Durham Nightline** (Jan 2007 - Jul 2009)
-*Listening Volunteer, Information Officer, Supplies Officer*
+*Assistant Clerk to the Coroner*  
+**Temp Solutions (Devon County Council)** (Mar 2013 to Nov 2014)  
+*Various temporary positions*  
+**Kent County Council** (Jun 2010 to Sept 2011)  
+*Publicity Officer - Local Bus Team*  
+**Maidstone & Weald Samaritans** (Sept 2009 to Jan 2011)  
+*Listening Volunteer*  
+**Durham Nightline** (Jan 2007 - Jul 2009)  
+*Listening Volunteer, Information Officer, Supplies Officer*  
