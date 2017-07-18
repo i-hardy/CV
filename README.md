@@ -3,7 +3,7 @@
 
 I am a **Full Stack Junior Developer** looking for a role where I can consolidate and extend my programming knowledge, and where I will be challenged to achieve more.
 
-I chose to change career and pursue programming following a period of upheaval in my life, which prompted me to reconsider my priorities. I decided I wanted to work in a field in which I would be able to engage my intellectual faculties every day, solve problems, and contribute to the crafting of excellent technologies.
+I chose to change career and pursue programming following a period of upheaval in my life, which prompted me to reconsider my priorities. I decided I wanted to work in a field in which I would be intellectually challenged and able to apply both creative and logical thinking processes to solve problems and apply a craft.
 
 ## Skills
 
@@ -45,7 +45,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - BA(Hons) in Theology & Religion
 - 2:1
-- My dissertation was a literary analysis of the characterisation of women in the patriarchal narratives (Genesis 12-50).
+- My dissertation was a literary analysis of women in the patriarchal narratives (Genesis 12-50).
 
 #### Any other qualifications
 
