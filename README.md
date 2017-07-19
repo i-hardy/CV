@@ -1,11 +1,11 @@
 ## Imogen Hardy
-[Blog](https://medium.com/@idgiecodes)
+[Blog](https://medium.com/@idgiecodes)|[Skills](#skills)|[Education](#education)|[Experience](#experience)
 
 I am a **Full Stack Junior Developer** looking for a role where I can consolidate and extend my programming knowledge, and where I will be challenged to achieve more.
 
-I chose to change career and pursue programming following a period of upheaval in my life, which prompted me to reconsider my priorities. I decided I wanted to work in a field in which I would be intellectually challenged and able to apply both creative and logical thinking processes to solve problems and apply a craft.
+I chose to change career and pursue programming following a period of upheaval in my life, which prompted me to reconsider my priorities. I decided I wanted to work in a field in which I would be intellectually challenged and able to use both creative and logical thinking processes to solve problems and apply a craft.
 
-## Skills
+##<a name="skills"></a> Skills
 
 #### Excellent communicator
 
@@ -24,7 +24,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+##<a name="education"></a> Education
 
 #### Makers Academy (Jul to Sept 2017)
 
@@ -52,7 +52,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - 4 A-levels (AAAB)
 - 10 GCSEs at A*-C
 
-## Experience
+##<a name="experience"></a> Experience
 
 **Exeter Diocesan Board of Finance** (Jun 2015 to Dec 2016)    
 *Executive Officer*  
