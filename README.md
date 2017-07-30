@@ -1,5 +1,5 @@
 ## Imogen Hardy
-[Blog](https://medium.com/@idgiecodes)|[Skills](#skills)|[Education](#education)|[Experience](#experience)
+[Website](https://www.imogenhardy.co.uk) | [Blog](https://medium.com/@idgiecodes) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
 
 I am a **Full Stack Junior Developer** looking for a role where I can consolidate and extend my programming knowledge, and where I will be challenged to achieve more.
 
@@ -9,31 +9,28 @@ I chose to change career and pursue programming following a period of upheaval i
 
 #### Excellent communicator
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+My skills in communication were developed both in the context of my academic work, in which I made presentations and gave papers to seminars and at conferences, and through my voluntary work at Nightline and the Samaritans, where I offered calm and a listening to people across the spectrum of society at times of personal crisis.
 
 #### Fast learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My ability to pick up new skills quickly is perhaps best exemplified by my progress at Makers Academy, where I went from the very basic Ruby I'd picked up at Codecademy to building a full-scale final project.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I am also accustomed to solo learning, having taught myself skills ranging from HTML and CSS to playing the guitar.
 
 ##<a name="education"></a> Education
 
 #### Makers Academy (Jul to Sept 2017)
 
-- Curiosity and hungry passion for code
+- Passion for good code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
+- Software craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
+
+#### University of Exeter (Sept 2013 to Jan 2015)
+- PhD in Theology & Religion (incomplete)
+- My thesis explored the idea of the parish as the fundamental political structure in England, and its role in a post-recession politics of subsidiarity.
 
 #### University of Exeter (Sept 2011 to Jan 2013)
 
@@ -52,7 +49,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - 4 A-levels (AAAB)
 - 10 GCSEs at A*-C
 
-##<a name="experience"></a> Experience
+##<a name="experience"></a>Experience
 
 **Exeter Diocesan Board of Finance** (Jun 2015 to Dec 2016)    
 *Executive Officer*  
