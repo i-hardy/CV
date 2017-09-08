@@ -1,5 +1,5 @@
 ## Imogen Hardy
-[Website](https://www.imogenhardy.co.uk) | [Blog](https://medium.com/@idgiecodes) | [Skills](#skills) | [Projects](#projects) [Education](#education) | [Experience](#experience)
+[Website](http://www.imogenhardy.co.uk) | [Blog](https://medium.com/@idgiecodes) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience)
 
 I am a **Full Stack Junior Developer** looking for a role where I can consolidate and extend my programming knowledge, and where I will be challenged to achieve more.
 
@@ -8,24 +8,43 @@ I chose to change career and pursue programming following a period of upheaval i
 <a name="skills"></a>
 ## Skills
 
+#### Analytical thinker
+
+My academic background in Theology, while not the most obvious field to precede a career in software development, has enabled me to develop excellent analytical thinking skills and an ability to think in complex, abstract terms as well as more concrete ones.
+
 #### Excellent communicator
 
 My skills in communication were developed both in the context of my academic work, in which I made presentations and gave papers to seminars and at conferences, and through my voluntary work at Nightline and the Samaritans, where I offered calm and a listening ear to people across the spectrum of society at times of personal crisis.
 
 #### Fast learner
 
-My ability to pick up new skills quickly is perhaps best exemplified by my progress at Makers Academy, where I went from the very basic Ruby I'd picked up at Codecademy to building a full-scale final project.
+My ability to pick up new skills quickly is perhaps best exemplified by my progress at Makers Academy, where I went from the very basic Ruby I'd picked up at Codecademy to building a full-scale final project. 
 
-I am also accustomed to solo learning, having taught myself skills ranging from HTML and CSS to playing the guitar.
+I am also accustomed to solo learning, having taught myself skills ranging from HTML and CSS to playing the guitar. I have excellent research skills and am confident in my ability to discern what I need to learn, and then go and learn it.
 
-<a name="education"></a>
+#### Collaborator
+
+In my time employed in local government I worked with teams across a wide variety of service areas, from transport planning to childrens' services, and learned to be adaptable to working with a wide range of people.
+
+In my time at Maker's Academy I have honed my collaboration skills in the context of small team projects, and in the work of the whole cohort of students supporting and assisting one anothers' learning.
+
+<a name="projects"></a>
 ## Projects
 
 #### At Makers Academy
+| Name | Technologies | Description |
+|------|--------------|-------------|
+|[PacMean](https://github.com/paulmillen/pacmean)| JavaScript, HTML canvas | A Pac-Man clone built using the HTML5 canvas element and pure JavaScript, created by a team of five in three days |
+|[Ynstagram](https://github.com/i-hardy/instagram-challenge)| Ruby, Rails, Postgresql, ImageMagick | An Instagram clone built for a weekend challenge- I went beyond the spec and also implemented user profiles, tagging, and the ability to follow other users |
+|[Acebook](https://github.com/makersacademy/acebook-remote-july-2017)| Ruby, Rails, Postgresql | Working as a team of twelve, my makers cohort built this completely un-derivative web app in the course of a week.|
+|[Thermostat](https://github.com/i-hardy/thermostat)|JavaScript, jQuery, HTML, CSS | A first foray into working with JS in the browser, built after we had been using the language for a matter of days.|
 
 #### Personal Projects
-- On my first day of the Makers course, the owner of a Discord server that I had just joined asked for my help in setting up a bot that she'd found on GitHub. Neither of us were able to get it working, but despite being entirely new to Discord as a platform, working with Ruby gems, and working with an API, I was intrigued by the thought of writing a bot to spec from scratch. Over the next couple of evenings I put together the first iteration of [Makkachin Bot](https://github.com/i-hardy/makkachin-bot), which I have continued to improve on since.
-- My experience of trying to get the bot hosted online, to save me from having to keep a terminal window open 24/7, got me interested in how servers and hosting actually work. In order to experiment directly I bought a Raspberry Pi 3 and, with a little trial and error, set it up with a simple LAMP stack in order to host [my personal website](https://www.imogenhardy.co.uk). As the website uses a Jekyll template, I also set up a post-receive git hook to rebuild the site every time I push a new commit.
+| Name | Technologies | Description |
+|------|--------------|-------------|
+|[Makkachin Bot](https://github.com/i-hardy/makkachin-bot) | Ruby, Discord API | On my first day of the Makers course, a friend asked for my help in setting up a  Discord bot that she'd found on GitHub. Neither of us were able to get it working, but despite being entirely new to Discord as a platform, working with Ruby gems, and working with an API, I was intrigued by the idea of writing a bot to spec from scratch, and put together the first version of this bot over the next few evenings. |
+| Raspberry Pi Server | Linux, Apache, Jekyll, Git | In order to experiment directly with server building and operation I bought a Raspberry Pi 3 and, with a little trial and error, set it up with a simple LAMP stack in order to host [my personal website](https://www.imogenhardy.co.uk). As the website uses a Jekyll template, I also set up a post-receive git hook to rebuild the site every time I push a new commit|
+|[Catfight](https://github.com/i-hardy/catfight)| JavaScript, React |  Using create-react-app to bootstrap the project, I decided to rebuild the week three 'Battle' Sinatra app with React, and take the opportunity to expand the game. The game gets random cat pictures from [The Cat API](https://thecatapi.com) to represent the players, and permits a variety of attacks to ensure a thrilling and glorious game. |
 
 <a name="education"></a>
 ## Education
@@ -34,7 +53,7 @@ I am also accustomed to solo learning, having taught myself skills ranging from 
 
 - OOP, TDD, SOLID, MVC, DDD
 - Software craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
 
 #### University of Exeter (Sept 2013 to Jan 2015)
