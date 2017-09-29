@@ -34,7 +34,7 @@ In my time at Maker's Academy I have honed my collaboration skills in the contex
 #### At Makers Academy
 | Name | Technologies | Description |
 |------|--------------|-------------|
-|[PacMean](https://github.com/paulmillen/pacmean)| JavaScript, HTML canvas | A Pac-Man clone built using the HTML5 canvas element and pure JavaScript, created by a team of five in three days |
+|[Catastrophe](https://github.com/i-hardy/side-scroller)| JavaScript, HTML canvas | A procedurally-generated platformer, built using the HTML5 canvas element and pure JavaScript, created by a team of six in two weeks |
 |[Ynstagram](https://github.com/i-hardy/instagram-challenge)| Ruby, Rails, Postgresql, ImageMagick | An Instagram clone built for a weekend challenge- I went beyond the spec and also implemented user profiles, tagging, and the ability to follow other users |
 |[Acebook](https://github.com/makersacademy/acebook-remote-july-2017)| Ruby, Rails, Postgresql | Working as a team of twelve, my makers cohort built this completely un-derivative web app in the course of a week.|
 |[Thermostat](https://github.com/i-hardy/thermostat)|JavaScript, jQuery, HTML, CSS | A first foray into working with JS in the browser, built after we had been using the language for a matter of days.|
@@ -42,9 +42,10 @@ In my time at Maker's Academy I have honed my collaboration skills in the contex
 #### Personal Projects
 | Name | Technologies | Description |
 |------|--------------|-------------|
-|[Makkachin Bot](https://github.com/i-hardy/makkachin-bot) | Ruby, Discord API | On my first day of the Makers course, a friend asked for my help in setting up a  Discord bot that she'd found on GitHub. Neither of us were able to get it working, but despite being entirely new to Discord as a platform, working with Ruby gems, and working with an API, I was intrigued by the idea of writing a bot to spec from scratch, and put together the first version of this bot over the next few evenings. |
-| Raspberry Pi Server | Linux, Apache, Jekyll, Git | In order to experiment directly with server building and operation I bought a Raspberry Pi 3 and, with a little trial and error, set it up with a simple LAMP stack in order to host [my personal website](https://www.imogenhardy.co.uk). As the website uses a Jekyll template, I also set up a post-receive git hook to rebuild the site every time I push a new commit|
-|[Catfight](https://github.com/i-hardy/catfight)| JavaScript, React |  Using create-react-app to bootstrap the project, I decided to rebuild the week three 'Battle' Sinatra app with React, and take the opportunity to expand the game. The game gets random cat pictures from [The Cat API](https://thecatapi.com) to represent the players, and permits a variety of attacks to ensure a thrilling and glorious game. |
+|[Makkachin Bot](https://github.com/i-hardy/makkachin-bot) | Ruby, Discord API | A Discord bot custom-written for a private server, and iterated on as my Ruby skills developed over the course of several months |
+| Raspberry Pi Server | Linux, Apache, Jekyll, Git | A Raspberry Pi running a simple LAMP stack in order to host [my personal website](https://www.imogenhardy.co.uk), with a post-receive git hook to build the site using Jekyll |
+|[Catfight](https://github.com/i-hardy/catfight)| JavaScript, React |  A Pokemon-style fighting game, bootstrapped with [create-react-app](https://github.com/facebookincubator/create-react-app) and using random cat pictures from [The Cat API](https://thecatapi.com). |
+|[Webber](https://github.com/i-hardy/webber)| Ruby, Sinatra | A Sinatra app which serves up a static website at root, and has a password-protected back end that uses [Quill](https://quilljs.com) to enable a non-technical user to edit a selected section of their site.|
 
 <a name="education"></a>
 ## Education
