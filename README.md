@@ -1,51 +1,51 @@
 ## Imogen Hardy
-[Website](http://www.imogenhardy.co.uk) | [Blog](https://medium.com/@idgiecodes) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience)
 
-I am a **Full Stack Junior Developer** looking for a role where I can consolidate and extend my programming knowledge, and where I will be challenged to achieve more.
-
-I chose to change career and pursue programming following a period of upheaval in my life, which prompted me to reconsider my priorities. I decided I wanted to work in a field in which I would be intellectually challenged and able to use both creative and logical thinking processes to solve problems and apply a craft, and have discovered an enormous love of coding and a passion for clean, clear and well-tested software design.
+I am a **Full Stack Javascript Developer** who loves to build first-class user experiences and work with excellent and exciting new technologies. I am passionate about clean code and test-driven development, and crafting software with care and skill.
 
 <a name="skills"></a>
 ## Skills
 
-#### Analytical thinker
+### Technical
+- Javascript (ES6, frameworks and vanilla)
+- Front-end tooling (Webpack, Gulp, CSS preprocessors)
+- DOM APIs
+- Node
+- Ruby (Rails, Sinatra, general scripting)
+- Docker
+- AWS
+- Git and Unix shell
 
-My academic background in Theology, while not the most obvious field to precede a career in software development, has enabled me to develop excellent analytical thinking skills and an ability to think in complex, abstract terms as well as more concrete ones.
-
-#### Excellent communicator
-
+### Excellent communicator
 My skills in communication were developed both in the context of my academic work, in which I made presentations and gave papers to seminars and at conferences, and through my voluntary work at Nightline and the Samaritans, where I offered calm and a listening ear to people across the spectrum of society at times of personal crisis.
 
-#### Fast learner
-
-My ability to pick up new skills quickly is perhaps best exemplified by my progress at Makers Academy, where I went from the very basic Ruby I'd picked up at Codecademy to building a full-scale final project. 
+### Fast learner
+My ability to pick up new skills quickly is perhaps best exemplified by my progress at Makers Academy, where I went from the very basic Ruby I'd picked up at Codecademy to building a full-scale final project in only 12 weeks.
 
 I am also accustomed to solo learning, having taught myself skills ranging from HTML and CSS to playing the guitar. I have excellent research skills and am confident in my ability to discern what I need to learn, and then go and learn it.
 
-#### Collaborator
-
+### Collaborator
 In my time employed in local government I worked with teams across a wide variety of service areas, from transport planning to childrens' services, and learned to be adaptable to working with a wide range of people.
 
-In my time at Maker's Academy I have honed my collaboration skills in the context of small team projects, and in the work of the whole cohort of students supporting and assisting one anothers' learning.
+Since moving into development I have come to deeply value and enjoy the shared creative process of building software. I particularly enjoy opportunities to share knowledge with colleagues; I recently developed a workshop and training exercises on front-end testing and test-driven development for other front-end developers at my current company. 
 
 <a name="projects"></a>
 ## Projects
-
-#### At Makers Academy
+#### Professional
 | Name | Technologies | Description |
 |------|--------------|-------------|
-|[Catastrophe](https://github.com/i-hardy/side-scroller)| JavaScript, HTML canvas | A procedurally-generated platformer, built using the HTML5 canvas element and pure JavaScript, created by a team of six in two weeks |
-|[Ynstagram](https://github.com/i-hardy/instagram-challenge)| Ruby, Rails, Postgresql, ImageMagick | An Instagram clone built for a weekend challenge- I went beyond the spec and also implemented user profiles, tagging, and the ability to follow other users |
-|[Acebook](https://github.com/makersacademy/acebook-remote-july-2017)| Ruby, Rails, Postgresql | Working as a team of twelve, my makers cohort built this completely un-derivative web app in the course of a week.|
-|[Thermostat](https://github.com/i-hardy/thermostat)|JavaScript, jQuery, HTML, CSS | A first foray into working with JS in the browser, built after we had been using the language for a matter of days.|
+|[Madgex.com](https://www.madgex.com) | Craft CMS, AWS Elastic Beanstalk | With no prior experience building CMS-driven sites or working with the LAMP stack, I rebuilt the company website from scratch in twelve weeks, with the centrepiece being a custom page builder that enables the marketing team to create and manage pages with little need for developer involvement. |
+|Insights | Vue, .Net | A client-facing data analytics SPA. In order to upgrade an inherited codebase from Vue 1 to Vue 2 I had to largely rebuild the front end, but in doing so was able to thoroughly rearchitect the app to make it extensible and maintainable for the long term. |
+|Targeted Job | Javascript | A vanilla JS widget working directly with DOM APIs, written to run on multiple different sites and enable user interaction with a machine learning API aimed at recommending job adverts based on metrics of similarity |
+|Paley | Node, Brain.js | Created for a hack day, an 'intelligent design' API using a neural network to produce home page layouts based on client demographics. |
 
-#### Personal Projects
+#### Personal
 | Name | Technologies | Description |
 |------|--------------|-------------|
-|[Makkachin Bot](https://github.com/i-hardy/makkachin-bot) | Ruby, Discord API | A Discord bot custom-written for a private server, and iterated on as my Ruby skills developed over the course of several months |
-| Raspberry Pi Server | Linux, Apache, Jekyll, Git | A Raspberry Pi running a simple LAMP stack in order to host [my personal website](https://www.imogenhardy.co.uk), with a post-receive git hook to build the site using Jekyll |
-|[Catfight](https://github.com/i-hardy/catfight)| JavaScript, React |  A Pokemon-style fighting game, bootstrapped with [create-react-app](https://github.com/facebookincubator/create-react-app) and using random cat pictures from [The Cat API](https://thecatapi.com). |
-|[Webber](https://github.com/i-hardy/webber)| Ruby, Sinatra | A Sinatra app which serves up a static website at root, and has a password-protected back end that uses [Quill](https://quilljs.com) to enable a non-technical user to edit a selected section of their site.|
+|[Worst Possible Answer](https://github.com/i-hardy/worst-possible-answer) | Vue, Express, Socket.io | A multiplayer card game, with all gameplay and live chat handled through websockets |
+|[Woolf](https://github.com/i-hardy/woolf-bot) | Ruby, Discord API | A Discord bot aimed at communities of writers, currently hosted on Heroku and used by over 200 servers |
+|[Catastrophe](https://github.com/i-hardy/side-scroller)| Vanilla JavaScript, HTML canvas | A procedurally-generated platformer, written in ES5 JavaScript, created by a team of six in two weeks |
+|[Ynstagram](https://github.com/i-hardy/instagram-challenge)| Ruby, Rails, Postgres, ImageMagick | An Instagram clone built for a bootcamp weekend challenge |
 
 <a name="education"></a>
 ## Education
@@ -81,6 +81,8 @@ In my time at Maker's Academy I have honed my collaboration skills in the contex
 <a name="experience"></a>
 ## Experience
 
+**Madgex** (Nov 2017 to present)    
+*Junior Javascript Developer*  
 **Exeter Diocesan Board of Finance** (Jun 2015 to Dec 2016)    
 *Executive Officer*  
 **Exeter & Greater Devon Coroner's Office** (Nov 2014 to Jun 2015)   
