@@ -1,52 +1,47 @@
-## Imogen Hardy
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience)
+# Imogen Hardy
 
-I am a **Full Stack Developer** who loves to build first-class user experiences and work with excellent and exciting new technologies. I am passionate about clean code and test-driven development, and crafting software with care and skill.
+[Skills](#skills) | [Work](#work) | [Education](#education) | [Experience](#experience)
+
+I am a **Full Stack Developer** who loves to build first-class user experiences and solid, maintainable software for the long term with the best technologies available. I am passionate about clean code and test-driven development, and crafting software with care and skill.
 
 <a name="skills"></a>
 ## Skills
 
-### Technical
 - Javascript (ES6+)
+- Test-driven development
 - Vue, React
-- Front-end tooling (Webpack, Gulp, CSS preprocessors)
-- NodeJS (Hapi, Express)
-- GraphQL
 - Functional programming
+- NodeJS
+- GraphQL
 - Docker
-- AWS
 - Git and Unix shell
 - Ruby, Lua, Rust
+- AWS
 
-### Excellent communicator
-My skills in communication were developed both in the context of my academic work, in which I made presentations and gave papers to seminars and at conferences, and through my voluntary work at Nightline and the Samaritans, where I offered calm and a listening ear to people across the spectrum of society at times of personal crisis.
+<a name="work"></a>
+## Work
 
-### Fast learner
-My ability to pick up new skills quickly is perhaps best exemplified by my progress at Makers Academy, where I went from the very basic Ruby I'd picked up at Codecademy to building a full-scale final project in only 12 weeks.
+### Test-Driven Refactoring
 
-I am also accustomed to solo learning, having taught myself skills ranging from HTML and CSS to playing the guitar. I have excellent research skills and am confident in my ability to discern what I need to learn, and then go and learn it.
+My first major task as a junior developer was to upgrade an existing Vue 1 application to Vue 2, and iron out issues that had arisen during its somewhat haphazard, experimental initial development. I was new to the framework and found many parts of the code difficult to understand, so focused first on building a comprehensive suite of unit tests around the application, which had no existing automated tests at all.
 
-### Collaborator
-In my time employed in local government I worked with teams across a wide variety of service areas, from transport planning to childrens' services, and learned to be adaptable to working with a wide range of people.
+The tests formed a foundation on which I could better understand some of the more complex areas of functionality, and gave me a much safer starting point from which I could upgrade and refactor the application.
 
-Since moving into development I have come to deeply value and enjoy the shared creative process of building software. I particularly enjoy opportunities to share knowledge with colleagues; I recently developed a workshop and training exercises on front-end testing and test-driven development for other front-end developers at my current company.
+### Microservice Migration
 
-<a name="projects"></a>
-## Projects
-#### Professional
-| Name | Technologies | Description |
-|------|--------------|-------------|
-|Data Out | Vue, GraphQL, Kong/Lua | A client facing data export SPA with a simple interface allowing users to build complex GraphQL queries to extract data from an API. The work included implementing new security mechanisms to safeguard sensitive personal data whilst integrating with a legacy product, requiring a custom Kong plugin. |
-|[Madgex.com](https://www.madgex.com) | Craft CMS, MySQL | With no prior experience building CMS-driven sites or working with the LAMP stack, I rebuilt the company website from scratch in twelve weeks, with the centrepiece being a custom page builder that enables the marketing team to create and manage pages with little need for developer involvement. |
-|Insights | Vue | A client-facing data analytics SPA. In order to upgrade an inherited codebase from Vue 1 to Vue 2 I had to largely rebuild the front end, but in doing so was able to thoroughly rearchitect the app to make it extensible and maintainable for the long term. |
+The last year of my time at Madgex has been spent taking a major role in the migration of our two legacy, monolithic products into a single-tenanted microservice application. In particular I've focused on transitioning our front end, which was previously based on a proprietary in-house templating language and full of complex overrides and per-client disparities, to a Node application using the Nunjucks templating language and unified around a core design system.
 
-#### Personal
-| Name | Technologies | Description |
-|------|--------------|-------------|
-|[Worst Possible Answer](https://github.com/i-hardy/worst-possible-answer) | Vue, Express, Socket.io | A multiplayer card game, with all gameplay and live chat handled through websockets |
-|[Woolf](https://github.com/i-hardy/woolf-bot) | Ruby, Discord API | A Discord bot aimed at communities of writers, currently used by over 250 servers |
-|[Catastrophe](https://github.com/i-hardy/side-scroller)| Vanilla JavaScript, HTML canvas | A procedurally-generated platformer, written in ES5 JavaScript, created by a team of six in two weeks |
-|[Ynstagram](https://github.com/i-hardy/instagram-challenge)| Ruby, Rails, Postgres, ImageMagick | An Instagram clone built for a bootcamp weekend challenge |
+I've taken a technical lead on much of our monitoring, including writing a custom UDP transport for logging, and on automating our generation of client-specific branded CSS based on our design system, which involved improving my knowledge of Docker and our CI systems.
+
+### Technical Leadership and Mentoring
+
+Something I have particularly enjoyed about the change in technical direction that I've been a part of at Madgex had been the opportunity to provide support for and learn from others as we made Javascript a bigger aspect of our tech stack. I've provided support to colleagues on everything from testing to design patterns, and have appreciated the challenges this has allowed me to tackle outside of my normal work. I have particularly enjoyed working with colleagues who are much more experienced than me in general, but who are new to the language, so I can help with problems around syntax or tooling while learning from their expertise in other ways.
+
+Outside of work I enjoy coaching at Codebar Brighton. Teaching and coaching people who are very new to coding is a terrific challenge in terms of being able to express my knowledge in a way that can be easily understood, but is also enormously fun and rewarding.
+
+### Accessibility and User Advocacy
+
+Since first learning about the ways screenreaders and other assistive technologies can interact with browsers I've been fascinated with the ways that following very simple best practices can help create online experiences that benefit and support all users. I have taken a lead on incorporating automated accessibility testing of components into our design system with Cypress and AXE, and am always seeking to improve my skills in manual testing of sites and products.
 
 <a name="education"></a>
 ## Education
